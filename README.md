@@ -5,6 +5,7 @@
 
 #### 分布式
 
+* [寻找一种可理解的共识算法](https://github.com/maemual/raft-zh_cn) ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 * [一文搞懂 Raft 算法](https://www.cnblogs.com/xybaby/p/10124083.html#4943894) ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 
 #### Kubernetes
