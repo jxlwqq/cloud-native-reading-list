@@ -17,4 +17,6 @@
 * [[视频]CNCF x Alibaba 云原生技术公开课](https://edu.aliyun.com/roadmap/cloudnative)
 * [[视频]华为云云原生王者之路集训营](https://education.huaweicloud.com/programs/63384278-52ab-42e9-8e67-5dff5a9f37fd/about?isAuth=0&amp;cfrom=hwc)
 * [[文章]在 Kubernetes 上部署应用时如何更新数据库](https://cloudnative.to/blog/running-database-migration-when-deploying-to-kubernetes/)
+* [[文档]RedHat 使用 Operator](https://access.redhat.com/documentation/zh-cn/openshift_container_platform/4.8/html/operators/index)
+
 
