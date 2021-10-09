@@ -20,4 +20,8 @@
 * [[文档]RedHat 使用 Operator](https://access.redhat.com/documentation/zh-cn/openshift_container_platform/4.8/html/operators/index)
 * [[实验]Kubernetes CKAD 认证实践](https://start.aliyun.com/course?id=0iNJ9RDH)
 
+#### 服务网格
+* [[视频]Service Mesh 与 Istio](https://edu.aliyun.com/course/1946/lesson/list?spm=5176.8764728.aliyun-edu-course-tab.2.4e9f348fZmiWoF)
+
+
 
