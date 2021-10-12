@@ -17,6 +17,7 @@
 * [[视频]CNCF x Alibaba 云原生技术公开课](https://edu.aliyun.com/roadmap/cloudnative)
 * [[视频]华为云云原生王者之路集训营](https://education.huaweicloud.com/programs/63384278-52ab-42e9-8e67-5dff5a9f37fd/about?isAuth=0&amp;cfrom=hwc)
 * [[文档]RedHat 使用 Operator](https://access.redhat.com/documentation/zh-cn/openshift_container_platform/4.8/html/operators/index)
+* [[系列]图解 Kubernetes](https://i.cloudnative.to/kubernetes/kubernetes/index)
 * [[实验]Kubernetes CKAD 认证实践](https://start.aliyun.com/course?id=0iNJ9RDH)
 * [[文章]深入了解 Kubernetes 动态准入控制](https://github.com/morvencao/kube-mutating-webhook-tutorial/blob/master/medium-article.md)
 * [[文章]深入了解 Kubernetes Informer](https://cloudnative.to/blog/client-go-informer-source-code/)
