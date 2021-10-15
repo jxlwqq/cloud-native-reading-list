@@ -2,7 +2,7 @@
 
 #### 容器
 * [[文章]Docker、containerd、CRI-O 和 runc 的区别](https://www.tutorialworks.com/difference-docker-containerd-runc-crio-oci/)
-
+* [[文章]为什么 Kubernetes 要替换 Docker](https://draveness.me/whys-the-design-kubernetes-deprecate-docker/)
 #### 分布式
 
 * [[论文]寻找一种可理解的共识算法](https://github.com/maemual/raft-zh_cn)
