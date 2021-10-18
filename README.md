@@ -26,6 +26,7 @@
 * [[文章]深入了解 Kubernetes Informer](https://cloudnative.to/blog/client-go-informer-source-code/)
 * [[文章]在 Kubernetes 上部署应用时如何更新数据库](https://cloudnative.to/blog/running-database-migration-when-deploying-to-kubernetes/)
 * [[文章]为什么已经用了滚动更新服务还会中断](https://feisky.xyz/posts/2021-01-18-rolling-update/)
+* [[文章]Kubernetes Deployment 故障排查常见方法](https://www.qikqiak.com/post/troubleshooting-deployments/)
 
 #### 服务网格
 * [[视频]Service Mesh 与 Istio](https://edu.aliyun.com/course/1946/lesson/list?spm=5176.8764728.aliyun-edu-course-tab.2.4e9f348fZmiWoF)
