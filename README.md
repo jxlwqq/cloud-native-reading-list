@@ -18,6 +18,7 @@
 * [[系列]谈 Kubernetes 的架构设计与实现原理](https://draveness.me/tags/kubernetes)
 * [[视频]CNCF x Alibaba 云原生技术公开课](https://edu.aliyun.com/roadmap/cloudnative)
 * [[视频]华为云云原生王者之路集训营](https://education.huaweicloud.com/programs/63384278-52ab-42e9-8e67-5dff5a9f37fd/about?isAuth=0&amp;cfrom=hwc)
+* [[视频]微软 Azure Kubernetes 基础知识](https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT)
 * [[专题]腾讯云原生专题](https://cloud.tencent.com/developer/special/TencentCloudNative)
 * [[文档]RedHat 使用 Operator](https://access.redhat.com/documentation/zh-cn/openshift_container_platform/4.8/html/operators/index)
 * [[系列]图解 Kubernetes 架构与设计](https://i.cloudnative.to/kubernetes/kubernetes/index)
