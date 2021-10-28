@@ -33,7 +33,7 @@
 #### 服务网格
 * [[视频]Service Mesh 与 Istio](https://edu.aliyun.com/course/1946/lesson/list?spm=5176.8764728.aliyun-edu-course-tab.2.4e9f348fZmiWoF)
 * [[系列]九析带你轻松完爆 istio 服务网格](https://blog.51cto.com/u_14625168/2474277)
-* [[视频]Tetrate 学院｜Istio 基础教程](https://academy.tetrate.io/courses/istio-fundamentals-zh)
+* [[视频]Tetrate 学院 Istio 基础教程](https://academy.tetrate.io/courses/istio-fundamentals-zh)
 
 
 
