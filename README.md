@@ -3,7 +3,7 @@
 #### 容器
 * [[文章]Docker 核心技术与实现原理](https://draveness.me/docker/)
 * [[文章]Docker、containerd、CRI-O 和 runc 的区别](https://www.tutorialworks.com/difference-docker-containerd-runc-crio-oci/)
-* [[文章]一文搞懂容器运行时 Containerd](https://www.qikqiak.com/post/containerd-usage/)
+* [[文章]一文搞懂容器运行时 containerd](https://www.qikqiak.com/post/containerd-usage/)
 * [[文章]为什么 Kubernetes 要替换 Docker](https://draveness.me/whys-the-design-kubernetes-deprecate-docker/)
 
 #### 分布式
