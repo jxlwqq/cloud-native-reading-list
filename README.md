@@ -37,4 +37,5 @@
 * [[视频]Tetrate 学院 Istio 基础教程](https://academy.tetrate.io/courses/istio-fundamentals-zh)
 
 
-
+#### Serverless
+* [[文章]Knative 全链路流量机制探索与揭秘](https://www.infoq.cn/article/niwwtl3apwoz7uigdmsb)
