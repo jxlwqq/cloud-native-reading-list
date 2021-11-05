@@ -25,7 +25,7 @@
 * [[文档]RedHat 使用 Operator](https://access.redhat.com/documentation/zh-cn/openshift_container_platform/4.8/html/operators/index)
 * [[系列]图解 Kubernetes 架构与设计](https://i.cloudnative.to/kubernetes/kubernetes/index)
 * [[实验]Kubernetes CKAD 认证实践](https://start.aliyun.com/course?id=0iNJ9RDH)
-* [[文章]深入了解 Kubernetes 动态准入控制](https://github.com/morvencao/kube-mutating-webhook-tutorial/blob/master/medium-article.md)
+* [[文章]深入了解 Kubernetes 动态准入控制](https://github.com/morvencao/kube-mutating-webhook-tutorial/blob/master/medium-article.md) [**译文**](https://blog.hdls.me/15564491070483.html)
 * [[文章]深入了解 Kubernetes Informer](https://cloudnative.to/blog/client-go-informer-source-code/)
 * [[文章]在 Kubernetes 上部署应用时如何更新数据库](https://cloudnative.to/blog/running-database-migration-when-deploying-to-kubernetes/)
 * [[文章]为什么已经用了滚动更新服务还会中断](https://feisky.xyz/posts/2021-01-18-rolling-update/)
