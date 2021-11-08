@@ -31,7 +31,8 @@
 * [[文章]为什么已经用了滚动更新服务还会中断](https://feisky.xyz/posts/2021-01-18-rolling-update/)
 * [[文章]Kubernetes 配置更新的那些事](https://feisky.xyz/posts/2021-01-13-config-manage/)
 * [[文章]Kubernetes Deployment 故障排查常见方法](https://learnk8s.io/troubleshooting-deployments) [**译文**](https://www.qikqiak.com/post/troubleshooting-deployments/)
-
+* [[文档]Kubernetes 加固指南](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETESHARDENINGGUIDANCE.PDF) [**译文**](https://jimmysong.io/kubernetes-hardening-guidance/)
+ 
 #### 服务网格
 * [[视频]Service Mesh 与 Istio](https://edu.aliyun.com/course/1946/lesson/list?spm=5176.8764728.aliyun-edu-course-tab.2.4e9f348fZmiWoF)
 * [[系列]九析带你轻松完爆 Istio 服务网格](https://jiuxi.org.cn/categories/istio/)
