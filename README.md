@@ -19,6 +19,10 @@
 * [[文章]etcd：从应用场景到实现原理的全方位解读](https://www.infoq.cn/article/etcd-interpretation-application-scenario-implement-principle/)
 * [[文章]高可用分布式存储 etcd 的实现原理](https://draveness.me/etcd-introduction/)
 
+#### 微服务
+
+* [一文详解微服务架构](https://www.cnblogs.com/skabyy/p/11396571.html)
+
 #### Kubernetes
 
 * [[专栏]深入剖析 Kubernetes](https://time.geekbang.org/column/intro/116)
