@@ -22,6 +22,7 @@
 #### 微服务
 
 * [一文详解微服务架构](https://www.cnblogs.com/skabyy/p/11396571.html)
+* [微服务下分布式事务模式的详细对比](https://www.infoq.cn/article/QrsQLqQpBOBOud3Z5Mfy)
 
 #### Kubernetes
 
