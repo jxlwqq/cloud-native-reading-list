@@ -45,7 +45,7 @@
 * [[文档]Kubernetes 加固指南](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETESHARDENINGGUIDANCE.PDF) [**译文**](https://jimmysong.io/kubernetes-hardening-guidance/)
 * [[文章]构建 Kubernetes 集群——选择最佳的自动扩缩策略](https://learnk8s.io/kubernetes-autoscaling-strategies#when-autoscaling-pods-goes-wrong) [**译文**](https://atbug.com/auto-scaling-best-practice-in-kubernetes/)
 * [[书单]Must Read Free Kubernetes Books](http://www.ofbizian.com/2020/09/must-read-free-kubernetes-books.html)
-* [数据包在 Kubernetes 中的一生](https://dramasamy.medium.com/life-of-a-packet-in-kubernetes-part-1-f9bc0909e051) [**译文**](https://blog.fleeto.us/post/life-of-a-packet-in-k8s-1/)
+* [[文章]数据包在 Kubernetes 中的一生](https://dramasamy.medium.com/life-of-a-packet-in-kubernetes-part-1-f9bc0909e051) [**译文**](https://blog.fleeto.us/post/life-of-a-packet-in-k8s-1/)
  
 #### 服务网格
 * [[视频]Service Mesh 与 Istio](https://edu.aliyun.com/course/1946/lesson/list?spm=5176.8764728.aliyun-edu-course-tab.2.4e9f348fZmiWoF)
