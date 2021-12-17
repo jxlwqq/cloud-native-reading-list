@@ -44,7 +44,7 @@
 * [[文章]Kubernetes Deployment 故障排查常见方法](https://learnk8s.io/troubleshooting-deployments) [**译文**](https://www.qikqiak.com/post/troubleshooting-deployments/)
 * [[文档]Kubernetes 加固指南](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETESHARDENINGGUIDANCE.PDF) [**译文**](https://jimmysong.io/kubernetes-hardening-guidance/)
 * [[文章]构建 Kubernetes 集群——选择最佳的自动扩缩策略](https://learnk8s.io/kubernetes-autoscaling-strategies#when-autoscaling-pods-goes-wrong) [**译文**](https://atbug.com/auto-scaling-best-practice-in-kubernetes/)
-* [Must Read Free Kubernetes Books](http://www.ofbizian.com/2020/09/must-read-free-kubernetes-books.html)
+* [[书单]Must Read Free Kubernetes Books](http://www.ofbizian.com/2020/09/must-read-free-kubernetes-books.html)
  
 #### 服务网格
 * [[视频]Service Mesh 与 Istio](https://edu.aliyun.com/course/1946/lesson/list?spm=5176.8764728.aliyun-edu-course-tab.2.4e9f348fZmiWoF)
