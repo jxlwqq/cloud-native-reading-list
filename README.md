@@ -14,6 +14,7 @@
 
 #### 分布式
 
+* [[文章]分布式事务的实现原理](https://draveness.me/distributed-transaction-principle/)
 * [[论文]寻找一种可理解的共识算法](https://github.com/maemual/raft-zh_cn)
 * [[文章]一文搞懂 Raft 算法](https://www.cnblogs.com/xybaby/p/10124083.html)
 * [[文章]etcd：从应用场景到实现原理的全方位解读](https://www.infoq.cn/article/etcd-interpretation-application-scenario-implement-principle/)
