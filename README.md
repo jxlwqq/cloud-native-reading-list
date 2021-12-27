@@ -25,6 +25,7 @@
 * [一文详解微服务架构](https://www.cnblogs.com/skabyy/p/11396571.html)
 * [微服务下分布式事务模式的详细对比](https://www.infoq.cn/article/QrsQLqQpBOBOud3Z5Mfy)
 * [Kafka 学习之路](https://www.cnblogs.com/qingyunzong/category/1212387.html)
+* [浅析 Dapr 里的云计算设计模式](https://www.cnblogs.com/shanyou/p/dapr-multi-runtime-microservice-architecture.html)
 
 #### Kubernetes
 
