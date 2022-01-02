@@ -50,9 +50,9 @@
 * [[文章]数据包在 Kubernetes 中的一生](https://dramasamy.medium.com/life-of-a-packet-in-kubernetes-part-1-f9bc0909e051) [**译文**](https://blog.fleeto.us/post/life-of-a-packet-in-k8s-1/)
  
 #### 服务网格
+* [[视频]Tetrate 学院 Istio 基础教程](https://academy.tetrate.io/courses/istio-fundamentals-zh)
 * [[视频]Service Mesh 与 Istio](https://edu.aliyun.com/course/1946/lesson/list?spm=5176.8764728.aliyun-edu-course-tab.2.4e9f348fZmiWoF)
 * [[系列]九析带你轻松完爆 Istio 服务网格](https://jiuxi.org.cn/categories/istio/)
-* [[视频]Tetrate 学院 Istio 基础教程](https://academy.tetrate.io/courses/istio-fundamentals-zh)
 * [[系列]不懂 EnvoyFilter 也敢说精通 Istio](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=2056941198828699650)
 
 
