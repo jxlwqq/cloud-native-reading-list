@@ -11,6 +11,7 @@
 #### RPC
 
 * [[教程]The complete gRPC course](https://dev.to/techschoolguru/series/7311)
+* [[文章]gRPC 客户端长连接机制实现及 keepalive 分析](https://pandaychen.github.io/2020/09/01/GRPC-CLIENT-CONN-LASTING/)
 
 #### 分布式
 
